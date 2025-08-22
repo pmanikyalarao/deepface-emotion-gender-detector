@@ -1,9 +1,10 @@
 # 🎭 Real-Time Emotion & Gender Detection
 
-![Project Banner](Emotion_Images/My_Happy_Image.jpg)
-![Project Banner](Emotion_Images/My_Happy_Image.jpg)
-
 A lightweight and fast Python project for **real-time emotion and gender detection** from webcam feed. It leverages the power of **DeepFace** and **OpenCV** to analyze multiple faces simultaneously, displaying the dominant emotion and gender for each person.
+
+
+![Project Banner](Emotion_Images/My_Neutral_Image.jpg)
+![Project Banner](Emotion_Images/My_Happy_Image.jpg)
 
 ---
 
